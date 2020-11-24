@@ -1,0 +1,95 @@
+ul.orice{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li.orice{
+  float: left;
+}
+
+li.orice a {
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li.orice a:hover {
+  background-color: #111;
+}
+        img {
+          border-radius:10px;
+          opacity:0.8;
+        }
+        body
+        {background-color:powderblue;
+        color:grey;
+        }
+        h1
+        {border-style:ridge;
+  border-color:red;
+  color:purple;}
+
+            
+        
+h2
+{border-style: solid;
+  border-color:lime;
+
+
+}
+ul{
+    list-style-type: circle;
+}
+th,tr,td{
+  border: 3px solid black;
+  margin: 2px;
+  width:150px;
+}
+th.rosu{
+    color:red;
+}
+td.rosu{
+    color:red;
+}
+   th.galben{
+       color:yellow;
+   }
+   td.galben{
+    color:yellow;
+}
+
+th.albastru
+{color:blue;
+}
+td.albastru
+{color:blue;
+}
+h2.fotbal{
+    border-color:coral;
+    color:red;
+}
+h2.hockey{
+    border-color:purple;
+    color:yellow;
+}
+h2.handball{
+    border-color:brown;
+    color:blue;
+}
+h2.carlas{
+    border-color:orange;
+    color:purple;
+}
+h2.retea{
+    border-color:lightblue;
+    color:purple;
+}
+p{
+    color:purple;
+}
